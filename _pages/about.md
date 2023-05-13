@@ -25,7 +25,7 @@ Yufei Xue is a third year undergraduate student from School of Information Scien
 - *2022.05*: &nbsp;🎉🎉 We were awarded the IEEE CASS 2022 Asia Pacific finalist.
 
 # 📝 Publications 
-- You You, **Yufei Xue**, Minhua Yang, Li Zhang, Xiaohu You, and Chuan Zhang, "Channel Estimation for RIS Assisted Millimeter Wave Systems via OMP with Optimization", IEEE Transactions on Vehicular Technology [Paper](http://xyfool-66.github.io/files/You2023OMP.pdf)
+- You You, **Yufei Xue**, Minhua Yang, Li Zhang, Xiaohu You, and Chuan Zhang, "Channel Estimation for RIS Assisted Millimeter Wave Systems via OMP with Optimization", IEEE Transactions on Vehicular Technology [[Paper](http://xyfool-66.github.io/files/You2023OMP.pdf)]
 
 # 🎖 Honors and Awards
 - *2022.09* National scholarship (4/246)
