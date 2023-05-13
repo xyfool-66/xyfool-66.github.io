@@ -33,11 +33,11 @@ As an IEEE student member, I am working at Lab of Efficient Architectures for Di
 
 # 💫 Honors and Awards
 - *2023.05*, **Merit Student of Jiangsu Province** (1/246)
-- *2021.11*, Tongrending scholarship
 - *2022.09*, **National scholarship** (4/246)
 - *2022.09*, Merit Student Model (1/246)
+- *2021.11*, Annual Chien-Shiung Student (The highest honor of Chien-Shiung Wu College)
+- *2021.11*, Tong-Ren-Ding scholarship
 - *2021.09*, President scholarship (2/73)
-- *2021.09*, Annual Chien-Shiung Student (The highest honor of Chien-Shiung Wu College)
 - *2021.05*, Zhishan Student scholarship (Twice)
 
 # 📖 Educations
