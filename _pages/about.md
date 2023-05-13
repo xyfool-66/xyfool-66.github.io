@@ -17,7 +17,6 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# 💬 About me
 Yufei Xue is a third year undergraduate student from School of Information Science and Technology, [Southeast University](https://www.seu.edu.cn/). He is a member of Lab of Efficient Architecture and Digital Signal Processing (LEADS) supervised by Prof. Chuan Zhang. My research interest includes channel estimation, convex optimization and machine learning.
 
 # 🔥 News
