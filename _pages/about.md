@@ -20,20 +20,20 @@ redirect_from:
 Yufei Xue is a third year undergraduate student from School of Information Science and Technology, [Southeast University](https://www.seu.edu.cn/). He is a member of Lab of Efficient Architecture and Digital Signal Processing (LEADS) supervised by Prof. Chuan Zhang. My research interest includes channel estimation, convex optimization and machine learning.
 
 # 🔥 News
-- *2022.07*: &nbsp;🎉🎉 I won the second prize of the 18th Physics Experiment Paper Competition of Southeast University.
-- *2022.05*: &nbsp;🎉🎉 We were awarded the IEEE CASS 2022 Asia Pacific finalist.
+- *2022.07*, &nbsp;🎉🎉 I won the second prize of the 18th Physics Experiment Paper Competition of Southeast University.
+- *2022.05*, &nbsp;🎉🎉 We were awarded the IEEE CASS 2022 Asia Pacific finalist.
 
 # 📝 Publications 
 - You You, **Yufei Xue**, Minhua Yang, Li Zhang, Xiaohu You, and Chuan Zhang, "Channel Estimation for RIS Assisted Millimeter Wave Systems via OMP with Optimization", IEEE Transactions on Vehicular Technology [[Paper](http://xyfool-66.github.io/files/You2023OMP.pdf)]
 
 # 🎖 Honors and Awards
-- *2022.09* National scholarship (4/246)
-- *2021.09* President scholarship (2/73)
-- *2021.11* Tongrending scholarship
-- *2021.05* Zhishan Student scholarship (Twice)
-- *2021.09* Merit Student of Jiangsu Province (1/246)
-- *2021.09* Merit Student Model (1/246)
-- *2021.09* Annual Chien-Shiung Student (The highest honor of Chien-Shiung Wu College)
+- *2022.09*, National scholarship (4/246)
+- *2021.09*, President scholarship (2/73)
+- *2021.11*, Tongrending scholarship
+- *2021.05*, Zhishan Student scholarship (Twice)
+- *2021.09*, Merit Student of Jiangsu Province (1/246)
+- *2021.09*, Merit Student Model (1/246)
+- *2021.09*, Annual Chien-Shiung Student (The highest honor of Chien-Shiung Wu College)
 
 # 📖 Educations
 - *2021.09 - 2024.07 (now)*, School of Informmation Science and Technology, Southeast University. 
