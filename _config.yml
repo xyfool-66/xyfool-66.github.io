@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Homepage"
+title                    : "Yufei Xue's Homepage"
 description              : "You can find me in other social platforms below."
 repository               : "xyfool-66/xyfool-66.github.io"
 google_scholar_stats_use_cdn : true
