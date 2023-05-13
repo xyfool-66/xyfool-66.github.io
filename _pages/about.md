@@ -29,7 +29,7 @@ As an IEEE student member, I am working at Lab of Efficient Architectures for Di
 - *2022.05*: &nbsp;🎉🎉 We were awarded the IEEE CASS 2022 Asia Pacific finalist.
 
 # 📝 Publications 
-- You You, **Yufei Xue**, Minhua Yang, Li Zhang, Xiaohu You, and Chuan Zhang, "Channel Estimation for RIS Assisted Millimeter Wave Systems via OMP with Optimization", ***IEEE Transactions on Vehicular Technology*** [[Paper](http://xyfool-66.github.io/files/You2023OMP.pdf)] [[Slides]((http://xyfool-66.github.io/files/OMP_Slides.pdf))]
+- You You, **Yufei Xue**, Minhua Yang, Li Zhang, Xiaohu You, and Chuan Zhang, "Channel Estimation for RIS Assisted Millimeter Wave Systems via OMP with Optimization", ***IEEE Transactions on Vehicular Technology*** [[Paper](http://xyfool-66.github.io/files/You2023OMP.pdf)] [[Slides](http://xyfool-66.github.io/files/OMP_Slides.pdf)]
 
 # 💫 Honors and Awards
 - *2023.05*, **Merit Student of Jiangsu Province** (1/246)
