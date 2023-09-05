@@ -29,7 +29,7 @@ As an IEEE student member, I am studying at School of Information Technology and
 - *2022.05*: &nbsp;🎉🎉 We were awarded the IEEE CASS 2022 Asia Pacific finalist.
 
 # 📝 Publications 
-- "Channel Estimation for RIS Assisted Millimeter Wave Systems via OMP with Optimization", ***IEEE Transactions on Vehicular Technology***, accept. [Paper]([https://www.seu.edu.cn/](https://ieeexplore.ieee.org/document/10192507))
+- "Channel Estimation for RIS Assisted Millimeter Wave Systems via OMP with Optimization", ***IEEE Transactions on Vehicular Technology***, accept. [[Paper]]([https://www.seu.edu.cn/](https://ieeexplore.ieee.org/document/10192507))
 
 # 💫 Honors and Awards
 - *2023.05*, **Merit Student of Jiangsu Province** (1/246)
