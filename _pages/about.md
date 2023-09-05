@@ -20,7 +20,9 @@ redirect_from:
 # 👀 About me
 As an IEEE student member, I am studying at School of Information Technology and Engineering, [Southeast University (SEU)](https://www.seu.edu.cn/). I am the honours (rank first) student of School of Informmation Science and Technology. During 2022 and 2023, I am a member of Zhishan Student Lecture Group of Southeast University. I have been accepted by HKUST through EAS program and will pursuit my Ph.D degree since 2024 Fall in Department of Electronic and Computer Engineering (ECE) at Hong Kong University of Science and Technology (HKUST). My researches focus on secure neural network inference, privacy-preserving federated learning, etc.
 
-👉 You can find my [CV](http://xyfool-66.github.io/files/cv.pdf) here (updated at May, 2023).
+Feel free to contact me if you are interested about anything regarding my researches, my hobbie and my life. (Do remember I am an ENFJ person with "E" rate reaching 90%+.)
+
+👉 You can find my [CV (updated at May, 2023)](http://xyfool-66.github.io/files/cv.pdf) here .
 
 📧 Feel free to contact me: yf_xue@seu.edu.cn
 
@@ -46,7 +48,7 @@ As an IEEE student member, I am studying at School of Information Technology and
 - *2020.09 - 2021.08*, Chien-Shiung Wu College, SEU
 
 # 🎤 Invited Talks
-None
+Hope for good news.
 
 # 💻 Internships
-- *2023.08 - 2023.09*, I developed NetAid, an Android app for network debugging, featuring integrated TCP and UDP protocols. I designed both the protocol implementation and user interface to provide seamless network analysis on Android devices.
+- *2023.08 - 2023.09*, I developed **NetAid**, an Android app for network debugging, featuring integrated TCP and UDP protocols. I designed both the protocol implementation and user interface to provide seamless network analysis on Android devices.
