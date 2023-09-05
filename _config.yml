@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Homepage"
-description              : "ENFJ"
+title                    : "Yufei Xue's Homepage"
+description              : "You can find me in other social platforms below."
 repository               : "xyfool-66/xyfool-66.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yufei Xue (薛宇飞)"
   avatar           : "images/me.png"
-  bio              : "SEU"
+  bio              : "Undergraduate in SEU"
   location         : "Nanjing, Jiangsu"
   employer         :
   pubmed           : 
