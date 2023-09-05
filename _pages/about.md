@@ -31,7 +31,7 @@ Feel free to contact me if you are interested about anything regarding my resear
 - *2022.05*: &nbsp;🎉🎉 We were awarded the IEEE CASS 2022 Asia Pacific finalist.
 
 # 📝 Publications 
-- "Channel Estimation for RIS Assisted Millimeter Wave Systems via OMP with Optimization", ***IEEE Transactions on Vehicular Technology***, accept. [[Paper]]([https://www.seu.edu.cn/](https://ieeexplore.ieee.org/document/10192507))
+- "Channel Estimation for RIS Assisted Millimeter Wave Systems via OMP with Optimization", ***IEEE Transactions on Vehicular Technology***, accept. [[Paper]](http://xyfool-66.github.io/files/Channel_Estimation_for_RIS_Assisted_Millimeter_Wave_Systems_via_OMP_with_Optimization.pdf)
 
 # 💫 Honors and Awards
 - *2023.05*, **Merit Student of Jiangsu Province** (1/246)
