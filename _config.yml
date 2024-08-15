@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yufei XUE's Homepage"
-description              : "You can call me 6️⃣6️⃣ (pronunciation is Leo) that is my baby name."
+description              : "(Update by 08/2024)"
 repository               : "xyfool-66/xyfool-66.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yufei XUE (薛宇飞)"
+  name             : "Yufei XUE"
   avatar           : "images/me.png"
-  bio              : "I am currently in my fourth year, working towards my undergraduate degree in Communication Engineering at Southeast University (SEU). I am thrilled to announce that I will be embarking on my Ph.D. program in the Department of Electronic and Computer Engineering (ECE) at Hong Kong University of Science and Technology (HKUST)."
-  location         : "Nanjing, Jiangsu"
+  bio              : "Ph.D. Candidate @ HKUST since 24FALL"
+  location         : "Hong Kong SAR"
   employer         :
   pubmed           : 
   googlescholar    : # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "yf_xue@seu.edu.cn"
+  email            : "yufei.xue@connect.ust.hk"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "xyfool-66"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
@@ -53,7 +53,7 @@ author:
   tumblr           :
   twitter          : 
   vine             :
-  weibo            : "@乐右六"
+  weibo            : 
   xing             :
   youtube          :
   wikipedia        :
