@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 👀 About me
-I am currently a Ph.D. candidate in the Department of Electronic and Computer Engineering at the Hong Kong University of Science and Technology (HKUST), under the supervision of [Prof. Jun ZHANG](https://eejzhang.people.ust.hk/). Before joining HKUST, I received my B.Eng. in School of Information Science and Engineering from Southeast University in 2024.
+I am currently a Ph.D. candidate in the Department of Electronic and Computer Engineering at the Hong Kong University of Science and Technology (HKUST), under the supervision of [Prof. Jun ZHANG](https://eejzhang.people.ust.hk/). Before joining HKUST, I received my B.Eng. in the School of Information Science and Engineering from Southeast University in 2024.
 
 If you have any inquiries or are interested in discussing my professional portfolio, please reach out to me at [yufei.xue@connect.ust.hk](mailto:yufei.xue@connect.ust.hk)
 
@@ -26,7 +26,7 @@ If you have any inquiries or are interested in discussing my professional portfo
 - *2024.08*: &nbsp;🎉🎉 I received the **HKUST RedBird PhD Award**.
 
 # 📝 Publications 
-- Y. You, **Y. Xue**, L. Zhang, X. You and C. Zhang, "Channel Estimation for RIS Assisted Millimeter Wave Systems via OMP With Optimization," in IEEE Transactions on Vehicular Technology, vol. 72, no. 12, pp. 16783-16787, Dec. 2023. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10192507)
+- Y. You, **Y. Xue**, L. Zhang, X. You and C. Zhang, "Channel Estimation for RIS Assisted Millimeter Wave Systems via OMP With Optimization", ***IEEE Transactions on Vehicular Technology***, vol. 72, no. 12, pp. 16783-16787, Dec. 2023. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10192507)
 
 # 💫 Honors and Awards
 - *2024.08*, **HKUST RedBird PhD Award**
@@ -35,15 +35,16 @@ If you have any inquiries or are interested in discussing my professional portfo
 - *2022.09*, Merit Student Model (1/246)
 - *2021.11*, Annual Chien-Shiung Student (The highest honor of Chien-Shiung Wu College)
 - *2021.11*, Tong-Ren-Ding scholarship
-- *2021.09*, President scholarship (2/73)
-- *2021.05*, Zhishan Student scholarship (Twice)
+- *2021.09*, **President scholarship** (2/73)
+- *2021.05, 2022.05*, Zhishan Student scholarship (Twice)
 
 # 📖 Educations
-- *2024.07 - 2028.07 (Expected)*, Electronic and Computer Engineering, HKUST
+- *2024.07 - 2028.07 (Expected)*, Department of Electronic and Computer Engineering, HKUST
 - *2021.09 - 2024.07*, School of Information Science and Engineering, Southeast University
 - *2020.09 - 2021.07*, Chien-Shiung Wu College, Southeast University
 
-
+# 🎤 Invited Talks
+Hope for good news.
 
 # 💻 Internships
 - *2023.11 - 2024.05*, Peking University
