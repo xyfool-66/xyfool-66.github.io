@@ -30,6 +30,7 @@ If you have any inquiries or are interested in discussing my professional portfo
 
 # 💫 Honors and Awards
 - *2024.08*, **HKUST RedBird PhD Award**
+- *2024.07*, Outstanding Graduate in the School of Information Science and Engineering
 - *2023.05*, **Merit Student of Jiangsu Province** (1/246)
 - *2022.09*, **National scholarship** (4/246)
 - *2022.09*, Merit Student Model (1/246)
@@ -40,7 +41,7 @@ If you have any inquiries or are interested in discussing my professional portfo
 
 # 📖 Educations
 - *2024.07 - 2028.07 (Expected)*, Department of Electronic and Computer Engineering, HKUST
-- *2021.09 - 2024.07*, School of Information Science and Engineering, Southeast University
+- *2021.09 - 2024.07*, School of Information Science and Engineering, Southeast University (GPA 94/100, ranked 2nd, with honor)
 - *2020.09 - 2021.07*, Chien-Shiung Wu College, Southeast University
 
 # 🎤 Invited Talks
