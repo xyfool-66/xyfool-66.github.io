@@ -18,22 +18,18 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 👀 About me
-As an IEEE student member, I am currently pursuing my studies at the School of Information Technology and Engineering, Southeast University (SEU), Nanjing. I hold the distinction of being the top-ranked honors student in the School of Information Science and Technology. During 2022 and 2023, I am a member of Zhishan Student Lecture Group at Southeast University.
+I am currently a Ph.D. candidate in the Department of Electronic and Computer Engineering at the Hong Kong University of Science and Technology (HKUST), under the supervision of [Prof. Jun Zhang](https://eejzhang.people.ust.hk/). Before joining HKUST, I received my B.Eng. in Information Science and Engineering from Southeast University in 2024.
 
-I am thrilled to share that I have been accepted into the EAS program at Hong Kong University of Science and Technology (HKUST) and will commence my Ph.D. program in the Department of Electronic and Computer Engineering (ECE) starting in the Fall of 2024. My research interests include secure neural network inference, privacy-preserving federated learning, and related topics.
-
-If you have any inquiries or are interested in discussing my professional portfolio, please do not hesitate to reach out to me at [yf_xue@seu.edu.cn](mailto:yf_xue@seu.edu.cn)
-
-👉 You can access my updated CV as of May 2023 by clicking [here](http://xyfool-66.github.io/files/cv.pdf).
+If you have any inquiries or are interested in discussing my professional portfolio, please do not hesitate to reach out to me at [yufei.xue@connect.ust.hk](mailto:yufei.xue@connect.ust.hk)
 
 # 🔥 News
-- *2022.07*: &nbsp;🎉🎉 I won the second prize of the 18th Physics Experiment Paper Competition of Southeast University.
-- *2022.05*: &nbsp;🎉🎉 We were awarded the IEEE CASS 2022 Asia Pacific finalist.
+- *2024.08*: &nbsp;🎉🎉 I received the **HKUST RedBird PhD Award**.
 
 # 📝 Publications 
-- "Channel Estimation for RIS Assisted Millimeter Wave Systems via OMP with Optimization", ***IEEE Transactions on Vehicular Technology***, accepted (co-first author). [[Paper]](http://xyfool-66.github.io/files/Channel_Estimation_for_RIS_Assisted_Millimeter_Wave_Systems_via_OMP_with_Optimization.pdf)
+- Y. You, **Y. Xue**, L. Zhang, X. You and C. Zhang, "Channel Estimation for RIS Assisted Millimeter Wave Systems via OMP With Optimization," in IEEE Transactions on Vehicular Technology, vol. 72, no. 12, pp. 16783-16787, Dec. 2023. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10192507)
 
 # 💫 Honors and Awards
+- *2024.08*, **HKUST RedBird PhD Award**
 - *2023.05*, **Merit Student of Jiangsu Province** (1/246)
 - *2022.09*, **National scholarship** (4/246)
 - *2022.09*, Merit Student Model (1/246)
@@ -43,12 +39,13 @@ If you have any inquiries or are interested in discussing my professional portfo
 - *2021.05*, Zhishan Student scholarship (Twice)
 
 # 📖 Educations
-- *2024.08 -*, ECE, HKUST
-- *2021.09 - 2024.06*, School of Information Science and Technology, SEU
-- *2020.09 - 2021.08*, Chien-Shiung Wu College, SEU
+- *2024.07 - 2028.07 (Expected)*, Electronic and Computer Engineering, HKUST
+- *2021.09 - 2024.07*, School of Information Science and Engineering, Southeast University
+- *2020.09 - 2021.07*, Chien-Shiung Wu College, Southeast University
 
 # 🎤 Invited Talks
 Hope for good news.
 
 # 💻 Internships
-- *2023.08 - 2023.09*, Jiangsu Zhenghetong Information Technology Co., Ltd, I developed **NetAid**, an Android app for network debugging, featuring integrated TCP and UDP protocols. I designed both the protocol implementation and user interface to provide seamless network analysis on Android devices.
+- *2023.08 - 2023.09*, Jiangsu Zhenghetong Information Technology Co., Ltd,
+  I developed **NetAid**, an Android app for network debugging, featuring integrated TCP and UDP protocols. I designed both the protocol implementation and user interface to provide seamless network analysis on Android devices.
