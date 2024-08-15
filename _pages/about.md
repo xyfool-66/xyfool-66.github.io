@@ -43,15 +43,14 @@ If you have any inquiries or are interested in discussing my professional portfo
 - *2021.09 - 2024.07*, School of Information Science and Engineering, Southeast University
 - *2020.09 - 2021.07*, Chien-Shiung Wu College, Southeast University
 
-# 🎤 Invited Talks
-Hope for good news.
+
 
 # 💻 Internships
 - *2023.11 - 2024.05*, Peking University
 
   Supervisor: Assistant Prof. Meng LI
 
-  Research on efficient privacy-preserving neural network inference, especially for the hardware/software co-optimized homomorphic encryption operator
+  Research on efficient privacy-preserving neural network inference, especially for the hardware/software co-optimized homomorphic encryption operator.
 
 - *2023.08 - 2023.09*, Jiangsu Zhenghetong Information Technology Co., Ltd.
   
