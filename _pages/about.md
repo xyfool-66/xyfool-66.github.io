@@ -18,9 +18,9 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 👀 About me
-I am currently a Ph.D. candidate in the Department of Electronic and Computer Engineering at the Hong Kong University of Science and Technology (HKUST), under the supervision of [Prof. Jun Zhang](https://eejzhang.people.ust.hk/). Before joining HKUST, I received my B.Eng. in Information Science and Engineering from Southeast University in 2024.
+I am currently a Ph.D. candidate in the Department of Electronic and Computer Engineering at the Hong Kong University of Science and Technology (HKUST), under the supervision of [Prof. Jun ZHANG](https://eejzhang.people.ust.hk/). Before joining HKUST, I received my B.Eng. in School of Information Science and Engineering from Southeast University in 2024.
 
-If you have any inquiries or are interested in discussing my professional portfolio, please do not hesitate to reach out to me at [yufei.xue@connect.ust.hk](mailto:yufei.xue@connect.ust.hk)
+If you have any inquiries or are interested in discussing my professional portfolio, please reach out to me at [yufei.xue@connect.ust.hk](mailto:yufei.xue@connect.ust.hk)
 
 # 🔥 News
 - *2024.08*: &nbsp;🎉🎉 I received the **HKUST RedBird PhD Award**.
@@ -47,5 +47,14 @@ If you have any inquiries or are interested in discussing my professional portfo
 Hope for good news.
 
 # 💻 Internships
-- *2023.08 - 2023.09*, Jiangsu Zhenghetong Information Technology Co., Ltd,
-  I developed **NetAid**, an Android app for network debugging, featuring integrated TCP and UDP protocols. I designed both the protocol implementation and user interface to provide seamless network analysis on Android devices.
+- *2023.11 - 2024.05*, Peking University
+
+  Supervisor: Assistant Prof. Meng LI
+
+  Research on efficient privacy-preserving neural network inference, especially for the hardware/software co-optimized homomorphic encryption operator
+
+- *2023.08 - 2023.09*, Jiangsu Zhenghetong Information Technology Co., Ltd.
+  
+  Supervisor: Prof. Gang WANG
+  
+  Developed **NetAid**, an Android app for network debugging, featuring integrated TCP and UDP protocols. 
