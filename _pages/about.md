@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 👀 About me
-I am currently a Ph.D. candidate in the Department of Electronic and Computer Engineering at the Hong Kong University of Science and Technology (HKUST), under the supervision of [Prof. Jun ZHANG](https://eejzhang.people.ust.hk/). Before joining HKUST, I received my B.Eng. in the School of Information Science and Engineering from Southeast University in 2024.
+I am currently a Ph.D. student in the Department of Electronic and Computer Engineering at the Hong Kong University of Science and Technology (HKUST), under the supervision of [Prof. Jun ZHANG](https://eejzhang.people.ust.hk/). Before joining HKUST, I received my B.Eng. in the School of Information Science and Engineering from Southeast University in 2024.
 
 If you have any inquiries or are interested in discussing my professional portfolio, please reach out to me at [yufei.xue@connect.ust.hk](mailto:yufei.xue@connect.ust.hk)
 
