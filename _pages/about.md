@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 👀 About me
-I am currently a Ph.D. student in the Department of Electronic and Computer Engineering at the Hong Kong University of Science and Technology (HKUST), under the supervision of [Prof. Jun ZHANG](https://eejzhang.people.ust.hk/). Before joining HKUST, I received my B.Eng. in the School of Information Science and Engineering from Southeast University in 2024.
+I am currently a Ph.D. student in the Department of Electronic and Computer Engineering at the Hong Kong University of Science and Technology (HKUST), under the supervision of [Prof. Jun ZHANG](https://eejzhang.people.ust.hk/). Before joining HKUST, I received my B.Eng. in the School of Information Science and Engineering from Southeast University in 2024. My research interest includes trustworthy AI and model compression.
 
 If you have any inquiries or are interested in discussing my professional portfolio, please reach out to me at [yufei.xue@connect.ust.hk](mailto:yufei.xue@connect.ust.hk)
 
@@ -41,7 +41,7 @@ If you have any inquiries or are interested in discussing my professional portfo
 
 # 📖 Educations
 - *2024.07 - 2028.07 (Expected)*, Department of Electronic and Computer Engineering, HKUST
-- *2021.09 - 2024.07*, School of Information Science and Engineering, Southeast University (GPA 94/100, ranked 2nd, with honor)
+- *2021.09 - 2024.07*, School of Information Science and Engineering, Southeast University *(GPA 94/100, rank 2/243, with honor)*
 - *2020.09 - 2021.07*, Chien-Shiung Wu College, Southeast University
 
 # 🎤 Invited Talks
@@ -50,7 +50,7 @@ Hope for good news.
 # 💻 Internships
 - *2023.11 - 2024.05*, Peking University
 
-  Supervisor: Assistant Prof. Meng LI
+  Supervisor: Assistant Prof. [Meng LI](https://mengli.me/)
 
   Research on efficient privacy-preserving neural network inference, especially for the hardware/software co-optimized homomorphic encryption operator.
 
@@ -58,4 +58,4 @@ Hope for good news.
   
   Supervisor: Prof. Gang WANG
   
-  Developed **NetAid**, an Android app for network debugging, featuring integrated TCP and UDP protocols. 
+  I Developed **NetAid**, an Android app for network debugging, featuring integrated TCP and UDP protocols. 
