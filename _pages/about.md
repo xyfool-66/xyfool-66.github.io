@@ -47,9 +47,6 @@ _(\* for co-first authors.)_
 - *2021.09 - 2024.07*, School of Information Science and Engineering, Southeast University *(rank 1/243 in the postgraduate recommendation process)*
 - *2020.09 - 2021.07*, Chien-Shiung Wu College, Southeast University
 
-# 🎤 Invited Talks
-Hope for good news.
-
 # 💻 Internships
 **Peking University (Nov 2023 - May 2024)**
 - Supervisor: Prof. [Meng LI](https://mengli.me/)
@@ -57,4 +54,7 @@ Hope for good news.
 
 **Jiangsu Zhenghetong Information Technology Co., Ltd. (Aug 2023 - Sep 2023)**
 - Supervisor: Prof. Gang WANG
-- Work on developing **NetAid**, an Android app for network debugging, featuring integrated TCP and UDP protocols. 
+- Work on developing **NetAid**, an Android app for network debugging, featuring integrated TCP and UDP protocols.
+
+# 💻 Services
+None
