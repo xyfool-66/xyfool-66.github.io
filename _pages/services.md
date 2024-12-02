@@ -1,18 +1,35 @@
 ---
-permalink: /
-title: ""
-excerpt: ""
-author_profile: true
-redirect_from: 
-  - /service/
-  - /service.html
+layout: compress
+title: "Services"
+permalink: /services/
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+<!doctype html>
+<html lang="en">
+<head>
+    <title>Services</title>
+    {% include head.html %}
+    {% include head/custom.html %}
+</head>
+<body>
+    {% include browser-upgrade.html %}
+    {% include masthead.html %}
 
-<span class='anchor' id='service'></span>
+    <div id="main" role="main">
+        {% include sidebar.html %}
+    
+        <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
+            <meta itemprop="headline" content="Services">
+            <div class="page__inner-wrap">
+                <section class="page__content" itemprop="text">
+                    <h1>Services</h1>
+                    <p>这里是“Services”部分的内容。</p>
+                    <!-- 添加更多服务相关的内容 -->
+                </section>
+            </div>
+        </article>
+    </div>
+
+    {% include scripts.html %}
+</body>
+</html>
