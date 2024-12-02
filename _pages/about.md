@@ -52,7 +52,7 @@ Hope for good news.
 
 # 💻 Internships
 **Peking University (Nov 2023 - May 2024)**
-- Supervisor: Assistant Prof. [Meng LI](https://mengli.me/)
+- Supervisor: Prof. [Meng LI](https://mengli.me/)
 - Research on efficient privacy-preserving neural network inference, especially for the hardware/software co-optimized homomorphic encryption operator.
 
 **Jiangsu Zhenghetong Information Technology Co., Ltd. (Aug 2023 - Sep 2023)**
