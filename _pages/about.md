@@ -26,7 +26,7 @@ If you have any inquiries or are interested in discussing my professional portfo
 - *2024.08*: &nbsp;🎉🎉 I received the **HKUST RedBird PhD Award**.
 
 # 📝 Publications 
-- Tengyu Zhang$\textsuperscript{\dag}$, **Yufei Xue**$\textsuperscript{\dag}$, Ling Liang, Zhen Gu, Yuan Wang, Runsheng Wang, Ru Huang and Meng Li. FLASH: An Efficient Hardware Accelerator Leveraging Approximate and Sparse FFT for Homomorphic Encryption. *In Design, Automation and Test in Europe Conference and Exhibition (DATE) 2025*. [paper]
+- Tengyu Zhang$\dag$, **Yufei Xue**$\textsuperscript{\dag}$, Ling Liang, Zhen Gu, Yuan Wang, Runsheng Wang, Ru Huang and Meng Li. FLASH: An Efficient Hardware Accelerator Leveraging Approximate and Sparse FFT for Homomorphic Encryption. *In Design, Automation and Test in Europe Conference and Exhibition (DATE) 2025*. [paper]
 - You You, **Yufei Xue**, Li Zhang, Xiaohu You and Chuan Zhang, "Channel Estimation for RIS Assisted Millimeter Wave Systems via OMP With Optimization", *IEEE Transactions on Vehicular Technology*, vol. 72, no. 12, pp. 16783-16787, Dec. 2023. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10192507)
 
 # 💫 Honors and Awards
