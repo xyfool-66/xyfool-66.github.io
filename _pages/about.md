@@ -18,7 +18,9 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 👀 About me
-I am currently a Ph.D. student in the Department of Electronic and Computer Engineering at the Hong Kong University of Science and Technology (HKUST), under the supervision of [Prof. Jun ZHANG](https://eejzhang.people.ust.hk/). Before joining HKUST, I received my B.Eng. in the School of Information Science and Engineering from Southeast University in 2024 (with honors). My research interest includes trustworthy and Efficient AI.
+I am currently a Ph.D. student in the Department of Electronic and Computer Engineering at the Hong Kong University of Science and Technology (HKUST), under the supervision of [Prof. Jun ZHANG](https://eejzhang.people.ust.hk/). Before joining HKUST, I received my B.Eng. in the School of Information Science and Engineering from Southeast University in 2024 (with honors). 
+
+My research interests focus on Efficient AI, with an emphasis on both model-centric (*e.g.*, quantization/sparsification) and data-centric (*e.g.*, token reduction) techniques.
 
 If you have any inquiries or are interested in discussing my professional portfolio, please reach out to me at [yufei.xue@connect.ust.hk](mailto:yufei.xue@connect.ust.hk)
 
@@ -34,27 +36,27 @@ _(\* for co-first authors.)_
 - *2024.08*, **HKUST RedBird PhD Award**
 - *2024.07*, Outstanding Graduate in the School of Information Science and Engineering
 - *2023.05*, **Merit Student of Jiangsu Province** (1/246)
-- *2022.09*, **National scholarship** (4/246)
+- *2022.09*, **National Scholarship** (4/246)
 - *2022.09*, Merit Student Model (1/246)
-- *2022.05*, Zhishan Student scholarship
+- *2022.05*, Zhishan Student Scholarship
 - *2021.11*, Annual Chien-Shiung Student (The highest honor of Chien-Shiung Wu College)
-- *2021.11*, Tong-Ren-Ding scholarship
-- *2021.09*, **President scholarship** (2/73)
-- *2021.05*, Zhishan Student scholarship
+- *2021.11*, Tong-Ren-Ding Scholarship
+- *2021.09*, **President Scholarship** (2/73)
+- *2021.05*, Zhishan Student Scholarship
 
 # 📖 Educations
 - *2024.07 - 2028.07 (Expected)*, Department of Electronic and Computer Engineering, HKUST
-- *2021.09 - 2024.07*, School of Information Science and Engineering, Southeast University *(rank 1/243 in the PG recommendation)*
+- *2021.09 - 2024.07*, School of Information Science and Engineering, Southeast University *(Rank 1/243)*
 - *2020.09 - 2021.07*, Chien-Shiung Wu College, Southeast University
 
 # 💻 Internships
-**Peking University (Nov 2023 - May 2024)**
-- Supervisor: Prof. [Meng LI](https://mengli.me/)
-- Research on efficient privacy-preserving neural network inference, especially for the hardware/software co-optimized homomorphic encryption operator.
+**Institute of Artificial Intelligence (TeleAI), China Telecom (Jun 2025 - Dec 2026)**
+- Mentor: Dr. [Jiawei SHAO](https://shaojiawei07.github.io/)
+- Efficient model deployment.
 
-**Jiangsu Zhenghetong Information Technology Co., Ltd. (Aug 2023 - Sep 2023)**
-- Supervisor: Prof. Gang WANG
-- Work on developing **NetAid**, an Android app for network debugging, featuring integrated TCP and UDP protocols.
+**Peking University (Nov 2023 - May 2024)**
+- Mentor: Prof. [Meng LI](https://mengli.me/)
+- Efficient privacy-preserving neural network inference.
 
 # 👨🏻‍🎓 Services
 **Reviewer**
