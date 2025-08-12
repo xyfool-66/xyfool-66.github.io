@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yufei XUE's Homepage"
-description              : 🤭
+description              : Towards Efficient AI
 repository               : "xyfool-66/xyfool-66.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yufei XUE"
   avatar           : "images/me.png"
-  bio              : "Ph.D. Student @ HKUST since 24Fall"
+  bio              : "Ph.D. Student @ HKUST (24Fall-Now)"
   location         : "Hong Kong SAR"
   employer         :
   pubmed           : 
