@@ -18,13 +18,14 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 👀 About me
-I am currently a Ph.D. student in the Department of Electronic and Computer Engineering at the Hong Kong University of Science and Technology (HKUST), under the supervision of [Prof. Jun ZHANG](https://eejzhang.people.ust.hk/). Before joining HKUST, I received my B.Eng. in the School of Information Science and Engineering from Southeast University in 2024 (with honors). 
+I am currently a Ph.D. candidate in the Department of Electronic and Computer Engineering at the Hong Kong University of Science and Technology (HKUST), under the supervision of [Prof. Jun ZHANG](https://eejzhang.people.ust.hk/). Before joining HKUST, I received my B.Eng. in the School of Information Science and Engineering from Southeast University in 2024 (with honors). 
 
-My research interests focus on Efficient AI, with an emphasis on both model-centric (*e.g.*, quantization/sparsification) and data-centric (*e.g.*, token reduction) techniques.
+My research interests focus on Efficient (M)LLMs.
 
 If you have any inquiries or are interested in discussing my professional portfolio, please reach out to me at [yufei.xue@connect.ust.hk](mailto:yufei.xue@connect.ust.hk)
 
 # 🔥 News
+- *2025.12*: &nbsp;🎉🎉 I passed the PhD qualifying examination.
 - *2024.08*: &nbsp;🎉🎉 I received the **HKUST RedBird PhD Award**.
 
 # 📝 Publications 
@@ -51,9 +52,9 @@ _(\* for co-first authors.)_
 - *2020.09 - 2021.07*, Chien-Shiung Wu College, Southeast University
 
 # 💻 Internships
-**Institute of Artificial Intelligence (TeleAI), China Telecom (Jun 2025 - Dec 2026)**
+**Institute of Artificial Intelligence (TeleAI), China Telecom (Jun 2025 - Jun 2026)**
 - Mentor: Dr. [Jiawei SHAO](https://shaojiawei07.github.io/)
-- Efficient model deployment.
+- Efficient MLLM inference.
 
 **Peking University (Nov 2023 - May 2024)**
 - Mentor: Prof. [Meng LI](https://mengli.me/)
@@ -61,4 +62,5 @@ _(\* for co-first authors.)_
 
 # 👨🏻‍🎓 Services
 **Reviewer**
+- AAAI'26
 - IEEE ICC'25
