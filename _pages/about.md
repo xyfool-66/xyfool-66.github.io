@@ -22,7 +22,7 @@ I am currently a Ph.D. candidate in the Department of Electronic and Computer En
 
 My research interests focus on Efficient (M)LLMs.
 
-See my latest CV [Here](./files/CV-Latest.pdf)
+See my latest CV [Here](./files/CV-Latest.pdf).
 
 # 🔥 News
 - *2025.12*: &nbsp;🎉🎉 I passed the PhD qualifying examination.
