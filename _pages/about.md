@@ -22,7 +22,7 @@ I am currently a Ph.D. candidate in the Department of Electronic and Computer En
 
 My research interests focus on Efficient (M)LLMs.
 
-If you have any inquiries or are interested in discussing my professional portfolio, please reach out to me at [yufei.xue@connect.ust.hk](mailto:yufei.xue@connect.ust.hk)
+See my latest CV [Here](./files/CV-Latest.pdf)
 
 # 🔥 News
 - *2025.12*: &nbsp;🎉🎉 I passed the PhD qualifying examination.
